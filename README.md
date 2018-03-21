@@ -8,5 +8,5 @@
 * [开发者指南英文版](https://bitcoin.org/en/developer-guide)
 
 # 比特币开发者指南中文版
-* [开发者指南中文版](http://usyiyi.cn/translate/bitcoin/developer-guide.html)
+* [开发者指南中文版](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
 
